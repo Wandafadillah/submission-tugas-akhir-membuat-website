@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+  <rect width="600" height="300" fill="#1B1F2B"/>
+  <rect x="40" y="40" width="520" height="220" rx="10" fill="#12141C" stroke="#2A3040" stroke-width="2"/>
+  <circle cx="65" cy="60" r="5" fill="#F2A65A"/>
+  <circle cx="82" cy="60" r="5" fill="#6FCF97"/>
+  <circle cx="99" cy="60" r="5" fill="#8A8F9C"/>
+  <text x="65" y="110" font-family="monospace" font-size="16" fill="#6FCF97">const belajar = "konsisten";</text>
+  <text x="65" y="140" font-family="monospace" font-size="16" fill="#E8E6E1">function mulai() {</text>
+  <text x="90" y="165" font-family="monospace" font-size="16" fill="#F2A65A">return "langkah kecil";</text>
+  <text x="65" y="190" font-family="monospace" font-size="16" fill="#E8E6E1">}</text>
+</svg>
